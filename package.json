@@ -1,0 +1,1 @@
+{"description":"Transfer Guard — a read-only AI agent that answers 'is it safe to send/approve this token?' with on-chain evidence. Built for zkVerify Agent Games, Wildcard track.","engines":{"node":">=20"},"license":"MIT","name":"transfer-guard","scripts":{"start":"node server.mjs","test":"node test/run-tests.mjs"},"type":"module","version":"0.1.0"}
